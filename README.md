@@ -6,7 +6,7 @@ Simple calculator created with JS/HTML/CSS.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-##Licenses
+## Licenses
 MIT License
 
 Copyright (c) 2020 Mohammad Rahman
